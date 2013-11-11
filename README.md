@@ -1,7 +1,7 @@
 Mangawire
 =========
 
-<p>A study of the major peer to peer networks and an implementation of the network which utilizes the advantages of the major peer to peer networks</p>
+<p>A study of the major peer to peer networks and an implementation of the network which utilizes the advantages of the major peer to peer networks <strong>Includes the compiled binaries for the client and the rendezvous peers(super peers)</strong></p>
 
 <p>Instructions on how to setup the network/client are included in the videos folder</p>
 
