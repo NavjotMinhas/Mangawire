@@ -1,0 +1,56 @@
+body,td,th {
+	font-family: "Avant Garde", Gadget, sans-serif;
+	font-size: 62.5%;
+	color: #FFF;
+}
+body {
+	background-color: #000;
+}
+a {
+	font-family: Calibri;
+	font-size: 1.4em;
+	color: #999;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #999;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+}
+div#main{
+	background-color: #111111;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	width: 550px;
+	height:auto;
+	border: solid #484848 1px;
+}
+img.clip{
+	border: solid #fff 1px;	
+	float:left;
+}
+table{
+	width:200px;
+	float:right;
+}
+tbody{
+    overflow-y: auto;
+    overflow-x: hidden;
+	width:200px;
+	height:314px;
+}
+div#container{
+	height:330px;
+	padding:15px;
+	
+}

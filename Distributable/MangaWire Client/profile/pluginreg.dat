@@ -1,0 +1,377 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.09|$
+
+[PLUGINS]
+C:\Program Files\QuickTime\Plugins\npqtplugin.dll|$
+|$
+1296778273964|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+7
+0|application/sdp|SDP stream descriptor|sdp|$
+1|application/x-sdp|SDP stream descriptor|sdp|$
+2|application/x-rtsp|RTSP stream descriptor|rtsp,rts|$
+3|video/quicktime|QuickTime Movie|mov,qt,mqv|$
+4|video/flc|AutoDesk Animator (FLC)|flc,fli,cel|$
+5|audio/x-wav|WAVE audio|wav,bwf|$
+6|audio/wav|WAVE audio|wav,bwf|$
+C:\Program Files\QuickTime\Plugins\npqtplugin2.dll|$
+|$
+1296778274205|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+7
+0|audio/aiff|AIFF audio|aiff,aif,aifc,cdda|$
+1|audio/x-aiff|AIFF audio|aiff,aif,aifc,cdda|$
+2|audio/basic|uLaw/AU audio|au,snd,ulw|$
+3|audio/mid|MIDI|mid,midi,smf,kar|$
+4|audio/x-midi|MIDI|mid,midi,smf,kar|$
+5|audio/midi|MIDI|mid,midi,smf,kar|$
+6|audio/vnd.qcelp|QUALCOMM PureVoice audio|qcp|$
+C:\Program Files\QuickTime\Plugins\npqtplugin3.dll|$
+|$
+1296778274471|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+8
+0|audio/x-gsm|GSM audio|gsm|$
+1|audio/AMR|AMR audio|AMR|$
+2|audio/aac|AAC audio|aac,adts|$
+3|audio/x-aac|AAC audio|aac,adts|$
+4|audio/x-caf|CAF audio|caf|$
+5|audio/ac3|AC3 audio|ac3|$
+6|audio/x-ac3|AC3 audio|ac3|$
+7|video/x-mpeg|MPEG media|mpeg,mpg,m1s,m1v,m1a,m75,m15,mp2,mpm,mpv,mpa|$
+C:\Program Files\QuickTime\Plugins\npqtplugin4.dll|$
+|$
+1296778274625|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+4
+0|video/mpeg|MPEG media|mpeg,mpg,m1s,m1v,m1a,m75,m15,mp2,mpm,mpv,mpa|$
+1|audio/mpeg|MPEG audio|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|$
+2|audio/x-mpeg|MPEG audio|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|$
+3|video/3gpp|3GPP media|3gp,3gpp|$
+C:\Program Files\QuickTime\Plugins\npqtplugin5.dll|$
+|$
+1296778274926|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+10
+0|audio/3gpp|3GPP media|3gp,3gpp|$
+1|video/3gpp2|3GPP2 media|3g2,3gp2|$
+2|audio/3gpp2|3GPP2 media|3g2,3gp2|$
+3|video/sd-video|SD video|sdv|$
+4|application/x-mpeg|AMC media|amc|$
+5|video/mp4|MPEG-4 media|mp4|$
+6|audio/mp4|MPEG-4 media|mp4|$
+7|audio/x-m4a|AAC audio|m4a|$
+8|audio/x-m4p|AAC audio (protected)|m4p|$
+9|audio/x-m4b|AAC audio book|m4b|$
+C:\Program Files\QuickTime\Plugins\npqtplugin6.dll|$
+|$
+1296778275188|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+8
+0|video/x-m4v|Video (protected)|m4v|$
+1|image/x-macpaint|MacPaint image|pntg,pnt,mac|$
+2|image/pict|PICT image|pict,pic,pct|$
+3|image/x-pict|PICT image|pict,pic,pct|$
+4|image/x-quicktime|QuickTime image|qtif,qti|$
+5|image/x-sgi|SGI image|sgi,rgb|$
+6|image/x-targa|TGA image|targa,tga|$
+7|image/jp2|JPEG2000 image|jp2|$
+C:\Program Files\QuickTime\Plugins\npqtplugin7.dll|$
+|$
+1296778275303|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+3
+0|image/jpeg2000|JPEG2000 image|jp2|$
+1|image/jpeg2000-image|JPEG2000 image|jp2|$
+2|image/x-jpeg2000-image|JPEG2000 image|jp2|$
+C:\Program Files\Adobe\Reader 9.0\Reader\browser\nppdf32.dll|$
+|$
+1235754822000|1|5|$
+Adobe PDF Plug-In For Firefox and Netscape|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+C:\Program Files\Java\jre6\bin\npjpi160_31.dll|$
+|$
+1333650972009|1|0|$
+Classic Java Plug-in 1.6.0_31 for Netscape and Mozilla|$
+Java(TM) Platform SE 6 U31|$
+32
+0|application/x-java-applet;jpi-version=1.6.0_31|Java Applet||$
+1|application/x-java-bean;jpi-version=1.6.0_31|JavaBeans||$
+2|application/x-java-applet;version=1.6|||$
+3|application/x-java-bean;version=1.6|||$
+4|application/x-java-applet;version=1.5|||$
+5|application/x-java-bean;version=1.5|||$
+6|application/x-java-applet;version=1.4|||$
+7|application/x-java-applet;version=1.4.1|||$
+8|application/x-java-applet;version=1.4.2|||$
+9|application/x-java-bean;version=1.4|||$
+10|application/x-java-bean;version=1.4.1|||$
+11|application/x-java-bean;version=1.4.2|||$
+12|application/x-java-applet;version=1.3|||$
+13|application/x-java-applet;version=1.3.1|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-bean;version=1.3.1|||$
+16|application/x-java-applet;version=1.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-applet;version=1.2.2|||$
+19|application/x-java-bean;version=1.2|||$
+20|application/x-java-bean;version=1.2.1|||$
+21|application/x-java-bean;version=1.2.2|||$
+22|application/x-java-applet;version=1.1|||$
+23|application/x-java-applet;version=1.1.1|||$
+24|application/x-java-applet;version=1.1.2|||$
+25|application/x-java-applet;version=1.1.3|||$
+26|application/x-java-bean;version=1.1|||$
+27|application/x-java-bean;version=1.1.1|||$
+28|application/x-java-bean;version=1.1.2|||$
+29|application/x-java-bean;version=1.1.3|||$
+30|application/x-java-applet|||$
+31|application/x-java-bean|||$
+C:\Program Files\Java\jre6\bin\npoji610.dll|$
+|$
+1333650972011|1|0|$
+Classic Java Plug-in 1.6.0_31 for Netscape and Mozilla|$
+Java(TM) Platform SE 6 U31|$
+1
+0|application/x-java-vm|Java| |$
+C:\Program Files\Common Files\Research In Motion\BBWebSLLauncher\NPWebSLLauncher.dll|$
+|$
+1289417338000|1|5|$
+BlackBerry WebSL Browser Plug-In|$
+RIM Handheld Application Loader|$
+1
+0|application/x-rim-websllauncher|||$
+C:\Program Files\Windows Live\Photo Gallery\NPWLPG.dll|$
+|$
+1271480158000|1|5|$
+NPWLPG|$
+Windows Live® Photo Gallery|$
+2
+0|application/x-wlpg3-detect|Windows Live® Photo Gallery|wlpg|$
+1|application/x-wlpg-detect|Windows Live® Photo Gallery|wlpg|$
+C:\PROGRA~1\MICROS~2\Office14\NPSPWRAP.DLL|$
+|$
+1269476558000|1|5|$
+The plug-in allows you to open and edit files using Microsoft Office applications|$
+Microsoft Office 2010|$
+1
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+c:\Program Files\Microsoft Silverlight\4.1.10111.0\npctrl.dll|$
+|$
+1326315814000|1|1|$
+4.1.10111.0|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2|||$
+C:\Program Files\Java\jre6\bin\plugin2\npdeployJava1.dll|$
+|$
+1333650972006|1|1|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.310.5|$
+1
+0|application/java-deployment-toolkit|||$
+C:\Program Files\Java\jre6\bin\plugin2\npjp2.dll|$
+|$
+1333650972031|1|0|$
+Next Generation Java Plug-in 1.6.0_31 for Mozilla browsers|$
+Java(TM) Platform SE 6 U31|$
+34
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;jpi-version=1.6.0_31|||$
+32|application/x-java-bean;jpi-version=1.6.0_31|||$
+33|application/x-java-vm-npruntime|||$
+C:\Program Files\iTunes\Mozilla Plugins\npitunes.dll|$
+|$
+1295591264000|1|5|$
+iTunes Detector Plug-in|$
+iTunes Application Detector|$
+1
+0|application/itunes-plugin|This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.||$
+C:\windows\system32\Macromed\Flash\NPSWF32.dll|$
+|$
+1295906005306|1|5|$
+Shockwave Flash 10.1 r102|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+C:\Users\Pride\AppData\Local\Google\Update\1.3.21.111\npGoogleUpdate3.dll|$
+|$
+1332329361722|1|1|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+C:\Users\Pride\AppData\Roaming\Mozilla\plugins\npgoogletalk.dll|$
+|$
+1336688688000|1|1|$
+Version 2.9.10.7526|$
+Google Talk Plugin|$
+1
+0|application/googletalk|Google voice and video chat|googletalk|$
+C:\Users\Pride\AppData\Roaming\Mozilla\plugins\npgtpo3dautoplugin.dll|$
+|$
+1336688696000|1|1|$
+Google Talk Plugin Video Accelerator version:0.1.44.15|$
+Google Talk Plugin Video Accelerator|$
+1
+0|application/vnd.gtpo3d.auto|||$
+C:\Users\Pride\Desktop\cd\Distributable\MangaWire Client\browser\xulrunner\plugins\npnul32.dll|$
+|$
+1301907389765|1|5|$
+Default Plug-in|$
+Mozilla Default Plug-in|$
+1
+0|*|Mozilla Default Plug-in|*|$
+C:\Program Files\Opera\program\plugins\NPOFFICE.DLL|$
+|$
+1174609410000|1|13|$
+Office Plugin for Netscape Navigator|$
+Microsoft Office 2003|$
+1
+0|application/x-msoffice|11.0.8161|*|$
+C:\Program Files\Opera\program\plugins\npqtplugin.dll|$
+|$
+1296778273964|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+7
+0|application/sdp|SDP stream descriptor|sdp|$
+1|application/x-sdp|SDP stream descriptor|sdp|$
+2|application/x-rtsp|RTSP stream descriptor|rtsp,rts|$
+3|video/quicktime|QuickTime Movie|mov,qt,mqv|$
+4|video/flc|AutoDesk Animator (FLC)|flc,fli,cel|$
+5|audio/x-wav|WAVE audio|wav,bwf|$
+6|audio/wav|WAVE audio|wav,bwf|$
+C:\Program Files\Opera\program\plugins\npqtplugin2.dll|$
+|$
+1296778274205|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+7
+0|audio/aiff|AIFF audio|aiff,aif,aifc,cdda|$
+1|audio/x-aiff|AIFF audio|aiff,aif,aifc,cdda|$
+2|audio/basic|uLaw/AU audio|au,snd,ulw|$
+3|audio/mid|MIDI|mid,midi,smf,kar|$
+4|audio/x-midi|MIDI|mid,midi,smf,kar|$
+5|audio/midi|MIDI|mid,midi,smf,kar|$
+6|audio/vnd.qcelp|QUALCOMM PureVoice audio|qcp|$
+C:\Program Files\Opera\program\plugins\npqtplugin3.dll|$
+|$
+1296778274471|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+8
+0|audio/x-gsm|GSM audio|gsm|$
+1|audio/AMR|AMR audio|AMR|$
+2|audio/aac|AAC audio|aac,adts|$
+3|audio/x-aac|AAC audio|aac,adts|$
+4|audio/x-caf|CAF audio|caf|$
+5|audio/ac3|AC3 audio|ac3|$
+6|audio/x-ac3|AC3 audio|ac3|$
+7|video/x-mpeg|MPEG media|mpeg,mpg,m1s,m1v,m1a,m75,m15,mp2,mpm,mpv,mpa|$
+C:\Program Files\Opera\program\plugins\npqtplugin4.dll|$
+|$
+1296778274625|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+4
+0|video/mpeg|MPEG media|mpeg,mpg,m1s,m1v,m1a,m75,m15,mp2,mpm,mpv,mpa|$
+1|audio/mpeg|MPEG audio|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|$
+2|audio/x-mpeg|MPEG audio|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|$
+3|video/3gpp|3GPP media|3gp,3gpp|$
+C:\Program Files\Opera\program\plugins\npqtplugin5.dll|$
+|$
+1296778274926|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+10
+0|audio/3gpp|3GPP media|3gp,3gpp|$
+1|video/3gpp2|3GPP2 media|3g2,3gp2|$
+2|audio/3gpp2|3GPP2 media|3g2,3gp2|$
+3|video/sd-video|SD video|sdv|$
+4|application/x-mpeg|AMC media|amc|$
+5|video/mp4|MPEG-4 media|mp4|$
+6|audio/mp4|MPEG-4 media|mp4|$
+7|audio/x-m4a|AAC audio|m4a|$
+8|audio/x-m4p|AAC audio (protected)|m4p|$
+9|audio/x-m4b|AAC audio book|m4b|$
+C:\Program Files\Opera\program\plugins\npqtplugin6.dll|$
+|$
+1296778275188|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+8
+0|video/x-m4v|Video (protected)|m4v|$
+1|image/x-macpaint|MacPaint image|pntg,pnt,mac|$
+2|image/pict|PICT image|pict,pic,pct|$
+3|image/x-pict|PICT image|pict,pic,pct|$
+4|image/x-quicktime|QuickTime image|qtif,qti|$
+5|image/x-sgi|SGI image|sgi,rgb|$
+6|image/x-targa|TGA image|targa,tga|$
+7|image/jp2|JPEG2000 image|jp2|$
+C:\Program Files\Opera\program\plugins\npqtplugin7.dll|$
+|$
+1296778275303|1|13|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.6.9|$
+3
+0|image/jpeg2000|JPEG2000 image|jp2|$
+1|image/jpeg2000-image|JPEG2000 image|jp2|$
+2|image/x-jpeg2000-image|JPEG2000 image|jp2|$
+C:\Program Files\Java\jre6\bin\npdeployJava1.dll|$
+|$
+1333650972006|1|9|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.310.5|$
+1
+0|application/java-deployment-toolkit|||$
