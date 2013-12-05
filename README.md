@@ -15,3 +15,10 @@ Mangawire
     <li>Technical Documentation</li>
   </ul>
 
+Screenshot of the project (This project does not explain how to make the user interface, <strong>the entire user interface is custom made</strong> meaning that you will have to dig through the code and see how I customized each swing class):
+
+<img src="http://i189.photobucket.com/albums/z183/Navthwarrior/splashscreen-1.png" />
+<img src="http://i189.photobucket.com/albums/z183/Navthwarrior/search.png" />
+<img src="http://i189.photobucket.com/albums/z183/Navthwarrior/home.png" />
+<img src="http://i189.photobucket.com/albums/z183/Navthwarrior/library-1.png" />
+<img src="http://i189.photobucket.com/albums/z183/Navthwarrior/forums-1.png" />
